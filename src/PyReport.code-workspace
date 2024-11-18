@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "PyReport",
+			"path": "../../../../../../../Desktop/PyReport"
+		},
+		{
+			"name": "Embed 1",
+			"path": "../../../../../../../Documents/PlatformIO/Projects/Embed 1"
+		},
+		{
+			"name": "PWM_LED",
+			"path": "../../../../../../../Documents/PlatformIO/Projects/PWM_LED"
+		},
+		{
+			"name": "Code",
+			"path": "../../../.."
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
